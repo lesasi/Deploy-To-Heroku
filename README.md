@@ -1,7 +1,3 @@
-## Heading
-[Handlebars templates](http://handlebarsjs.com/)
-> This is code **snippet** 
-
 # Deploying MERN Application to Heroku
 
 Small guide to deploy a project using React client and Node.js server. Summary of [this article](https://coursework.vschool.io/deploying-mern-app-to-heroku/)
