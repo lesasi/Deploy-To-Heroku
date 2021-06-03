@@ -1,6 +1,6 @@
 # Deploying MERN Application to Heroku
 
-Small guide to deploy a project using React client and Node.js server. Summary of [this article](https://coursework.vschool.io/deploying-mern-app-to-heroku/)
+Small guide to deploy a project using React client and Node.js server. Summary of [this article](https://coursework.vschool.io/deploying-mern-app-to-heroku/). This was written for personal reference for future projects.
 
 ## Git repo
 1. In a server and client folder, take all contents of server folder, and paste them one folder up(in root dir), then delete the empty server folder.
